@@ -16,4 +16,10 @@ TBD
 * Ski/Snowboard Ausrüstung
 * Zelt
 * Schlafsack
-* ...
+* Pulka
+* 
+
+### Gemeinsame Ausrüstung (Gegenstand - Verantwortlich)
+
+* Aufenthaltszelt: TBD
+* 
